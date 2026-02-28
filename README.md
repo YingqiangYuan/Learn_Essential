@@ -1,199 +1,223 @@
-# Getting Started with GitHub Projects for Task Management
+# The Student's Guide to Email Account Planning
 
 ## 📋 What You'll Learn
 
 By the end of this section, you'll be able to:
 
-- Understand the core ideas behind Kanban-style task management
-- Navigate the basic workflow in GitHub Projects
-- Use the Comment feature for effective asynchronous communication
+- Understand why you need two primary email accounts and how to divide their responsibilities
+- Follow professional naming conventions that make a good impression on recruiters
+- Configure security settings that protect your digital identity
 
 ## 🎯 Why This Matters
 
-Picture this: you and a coworker are discussing tasks over WeChat. Messages pile up, and after scrolling for five minutes you still can't find "that thing we talked about last time." Worse, you think you're done — but they think you haven't even started. You're completely out of sync.
+Picture this: you finally get that dream offer, and HR says "please confirm within 24 hours." You open your inbox — only to discover that because you used a Chinese email provider, the message landed in your spam folder three days ago.
 
-This kind of chaos is incredibly common in the workplace, and GitHub Projects exists to solve it.
+Or this: you're back in China for the summer and need to check your project progress on GitHub, but you can't log in — because the account is tied to Gmail, and Gmail requires a VPN in China.
 
-Think of it as a **transparent task board**: every task is visible at a glance so nothing slips through the cracks. Everyone can see who's working on what and how far along they are. All discussions and deliverables live in one place instead of being scattered across chat threads.
-
-Kanban-style project management is the standard collaboration model at American tech companies. Whether it's a startup or a major corporation, you'll encounter tools like this — maybe Jira, Asana, Trello, or GitHub Projects itself. Getting comfortable with this workflow now means you'll hit the ground running when you start a new job.
+Email isn't just a messaging tool. It's your **digital ID card** for living, studying, and working in the United States. The wrong email setup can cost you opportunities at critical moments; the right one lays the foundation for your entire American career.
 
 ---
 
-## 📖 The Big Picture: Understanding Board Columns
+## 📖 Core Concepts
 
-When you open GitHub Projects, you'll see a board view with several columns. Each column represents a different task status.
+### The Golden Rule: Maintain Two Primary Email Accounts
 
-A typical board includes these status columns:
+If you're planning to build a long-term career in the US, you need two primary email accounts running in parallel:
 
-![github-project-kanban-workflow.png](./img/02-GitHub-Project-For-Task-Management/02-GitHub-Project-For-Task-Management-01.png)
+| Email Provider<br> | Primary Role<br> |
+| --- | --- |
+| **Gmail (Google)**<br> | The US workplace standard — use for all professional account registrations<br> |
+| **Outlook (Microsoft)**<br> | Backup email + your "insurance policy" that works in China without a VPN<br> |
+This isn't overkill — it's essential redundancy. Just like you back up important files, your digital identity needs a backup too.
 
-| Column | What It Means | Who Manages It |
+### Gmail vs. Outlook: Strengths at a Glance
+
+| Dimension<br> | Gmail (Google)<br> | Outlook (Microsoft)<br> |
 | --- | --- | --- |
-| **Planned** | Tasks your mentor has queued up | Managed by your mentor — **don't touch these** |
-| **Todo** | Tasks assigned to you | Pick tasks from here to get started |
-| **Doing** | Tasks you're actively working on | You drag cards here |
-| **Review** | Done on your end, waiting for review | You drag cards here + leave a comment |
-| **Done** | Approved by your mentor | Moved by your mentor |
-| **Hold** | Temporarily on pause | Managed by your mentor |
-| **Cancelled** | Tasks that are no longer needed | Managed by your mentor |
-| Different teams may customize the number and names of columns, but the core logic stays the same: **tasks flow from left to right, representing the journey from "planned" to "completed." As the person doing the work, you generally only need to focus on three columns: Todo → Doing → Review.** |  |  |
+| US recognition<br> | ⭐⭐⭐⭐⭐ Highest<br> | ⭐⭐⭐⭐ High<br> |
+| Ecosystem<br> | Google Drive, Docs, Sheets (all free)<br> | OneDrive, Word, Excel<br> |
+| Access in China<br> | ❌ Requires a VPN<br> | ✅ Direct access, no VPN needed<br> |
+| User experience<br> | Clean and intuitive<br> | Feature-rich but more complex<br> |
+**What makes Gmail special:** Gmail isn't just an inbox — it's a full suite of free productivity tools: Google Drive (15 GB of free cloud storage), Google Docs/Sheets (online documents and spreadsheets), and Google Calendar (essential for scheduling interviews). In US academic and professional settings, Gmail + Google Workspace is the undisputed default.
+
+**What makes Outlook special:** The killer feature is China accessibility. Microsoft services work in China without a VPN, so if you travel home regularly, Outlook keeps your email flowing without interruption.
+
+### Dividing the Workload: Which Email for Which Scenario?
+
+**When to use Gmail ✅**
+
+Rule of thumb: anything related to US professional life, academia, or tech platforms goes through Gmail.
+
+| Category<br> | Specific Accounts<br> |
+| --- | --- |
+| Tech platforms<br> | GitHub (most important), OpenAI, AWS, Google Cloud<br> |
+| Job hunting<br> | LinkedIn, Indeed, Glassdoor, company career portals<br> |
+| Daily life & finance<br> | Amazon, PayPal, US banking apps, Venmo<br> |
+| Learning tools<br> | Coursera, Udacity, Stack Overflow, Notion<br> |
+**When to use Outlook ✅**
+
+| Category<br> | Specific Uses<br> |
+| --- | --- |
+| School-related<br> | Backup recovery email for your school account, receiving transcripts and certificates<br> |
+| Temporary accounts<br> | Platforms you're not sure you'll use long-term<br> |
+| China access<br> | Any email you need to check frequently while in China<br> |
+
+### Email Naming: First Impressions Start in the Inbox
+
+**❌ Names that make recruiters cringe:**
+
+- `` qwerty123@gmail.com `` — looks like someone mashed the keyboard
+- `` sillybird888@gmail.com `` — nickname-style, not professional
+- `` happygirl2005@gmail.com `` — reveals your age, reads like a middle schooler's handle
+
+In the US job market, a recruiter who sees an email like these immediately thinks: this person doesn't understand workplace norms, or doesn't take professionalism seriously.
+
+**✅ The professional naming formula:**
+
+Format: `` [firstname][lastname][two digits]@gmail.com ``
+
+Examples:
+
+- `` martycorby88@gmail.com ``
+- `` stephengregory23@gmail.com ``
+- `` racheljones66@gmail.com ``
+
+**How to pick the two digits:** Avoid your birth year (it reveals your age). Use a number you like — 88, 66, 18 — or any random combination: 23, 47, 99.
+
+**Pro tip:** Adding periods makes it look more polished: `` stephen.gregory88@gmail.com ``
+
+### A Critical Note About Your .edu Email ⚠️
+
+When you enroll, your school will give you a `` .edu `` address (e.g., `` yourname@university.edu ``). This email is **temporary** — it typically expires 1–2 years after graduation.
+
+**❌ Do NOT use your school email to sign up for:** GitHub, LinkedIn, bank accounts, or any service you plan to use long-term. Why? Once your school email is deactivated after graduation, you lose access to all those accounts.
+
+**✅ The right uses for your school email:** Receiving course announcements, assignments, and grades; communicating with professors and TAs; applying for campus resources; adding it as an extra recovery option for Gmail/Outlook.
 
 ---
 
-## 📖 The Core Workflow
+## 💻 Hands-On Setup
 
-### Step 1: Pick a task from the Todo column
+### Step 1: Create Your Gmail Account
 
-Open the board and look at the **Todo** column — this is where assigned tasks sit, waiting for someone to start them. Click on any task card to see its full description, due date, related links, and other details.
+1. Go to `` accounts.google.com/signup ``
+2. Enter your name and choose a username following the naming rules above
+3. Set a strong password (see the "Email Security" section below)
+4. Complete phone number verification
 
-When choosing a task, consider priority and deadlines. If you're not sure what to tackle first, check with your project lead.
+### Step 2: Create Your Outlook Account
 
-### Step 2: Start working — drag the card to Doing
+1. Go to `` outlook.live.com ``
+2. Click **Create free account**
+3. Use the same naming format for your email address
+4. Set a strong password and complete verification
 
-When you're ready to begin, click and hold the task card, drag it over to the **Doing** column, and release.
+### Step 3: Link Them as Each Other's Recovery Email (Critical!)
 
-This simple action carries real significance: it tells every member of the team that you're on it. No duplicate work, no "I thought you were handling that" / "I thought you hadn't started" miscommunication.
+Most people skip this step, but it's extremely important — if one account ever gets locked, the other becomes your lifeline.
 
-### Step 3: When you're done, move it to Review and leave a comment
+**Setting Outlook as Gmail's recovery email:**
 
-Once you've finished a task, you need to do two things.
+1. Log into Gmail, click your profile picture in the top right → **Manage your Google Account**
+2. Select the **Security** tab on the left
+3. Scroll down to the **Ways we can verify it's you** section
+4. Click **Recovery email** and add your Outlook address
 
-**First, drag the card to the Review column.** Same drag-and-drop as before — this signals that your work is complete and ready for someone to check.
+**Setting Gmail as Outlook's recovery email:**
 
-**Second, leave a comment on the task.** Click the task card to open its detail page and find the Comment box at the bottom. Your comment should include three things: a note that you've finished, an @ mention of the reviewer (type `` @ `` and select their username), and links to your deliverables.
+1. Log into Outlook, click your profile picture in the top right → **My account**
+2. Go to **Security** → **Advanced security options**
+3. Under **Ways to prove who you are**, add your Gmail address
 
-Here's what a good comment looks like:
+### Step 4: Lock Down Your Security
 
-```
-@reviewer-username I've completed this task.
+**Setting a strong password:**
 
-Deliverables:
-- Market research doc: https://github.com/xxx/xxx/blob/main/research.md
-- Data analysis report: https://github.com/xxx/xxx/blob/main/analysis.ipynb
-```
+- At least 12 characters
+- Mix of uppercase letters, lowercase letters, numbers, and special symbols
+- Good example: `` MyName@2024!College#Success ``
+- Trick: take the first letters of a sentence that means something to you. For instance, "I love coffee every morning since 2020" → `` Ilcem$2020! ``
 
-**Key reminder: don't just drop a bare link.** Add a brief description before each link so the reviewer can immediately understand what you're submitting.
+**Enabling Two-Factor Authentication (2FA):**
 
-> **INFO**
-> 
-> If there are no specific instructions, just @ the reviewer and say you're done — or simply write "Done." The important thing is to never move a card to Review without saying anything at all.
+This is the single most effective way to prevent your account from being hacked. With 2FA enabled, even if your password leaks, no one can log in without your phone.
 
-### Step 4: Wait for review, and you're done
+- Gmail: **Security** → **2-Step Verification** → **Get started**
+- Outlook: **Security** → **Advanced security options** → **Two-step verification**
 
-After you submit to Review, the reviewer will check your work. If it passes, the task gets moved to **Done**. If changes are needed, the reviewer will explain what to fix in a comment, and you can revise and resubmit.
-
-You don't need to ping anyone separately through a chat app — that's the whole point of a board system: **reviewers check the Review column regularly, and the system sends notifications automatically.**
-
----
-
-## 📖 Daily Habits for Effective Collaboration
-
-**Got a question?** Post it as a comment on the relevant task card, and @ the right people. Keep discussions attached to the task itself rather than buried in WeChat or Slack threads — that way the full context is always easy to find later.
-
-**Starting your workday?** Check the board first. See if any new tasks have been assigned to you, and look in the Review column for feedback that needs your attention.
-
-**Making progress on a task?** Keep the status up to date. If a task will take several days, drop periodic updates in the comments so the team knows where things stand.
-
-**Things to avoid:** Don't discuss task details in chat apps — chat messages get buried under new ones, while comments stay attached to the task forever. Don't submit bare links with no description — unexplained links confuse reviewers. Don't forget to update your task status — a card that sits in Doing for three days with no movement makes the team think you're stuck.
+**Estimated time: 20–30 minutes**
 
 ---
 
-## 📱 Required: Install the GitHub Mobile App
+## 👨‍🏫 A Note from Your Mentor: Think Long-Term About Your Digital Identity
 
-Install the official GitHub App on your phone and sign in with your GitHub account. This lets you check and manage tasks wherever you are.
+Now that you've set everything up, you might be thinking: "It's just two email accounts — why make such a big deal out of it?"
 
-**Why is this required?** The same way you glance at your phone calendar every morning to see what's on your plate, being able to check the task board anytime keeps your work organized. With the mobile app, you can quickly scan task progress whenever it's convenient — no need to open your laptop. It makes everything much easier to stay on top of.
+Let me share a deeper perspective: **your email isn't a tool. It's your digital identity.**
 
-**iPhone users:** Open the App Store and search for "GitHub." Look for the official GitHub App (the icon is a white GitHub cat logo on a black background), then download and install it.
+### Shifting from "Throwaway Accounts" to "Lifetime Assets"
 
-**Android users:** Open the Google Play Store, search for "GitHub," and download the official app.
+A lot of students default to their school email for everything — it's convenient, the school assigned it, and you didn't have to create it. But this "temporary mindset" will come back to haunt you in a few years.
 
-Once installed, open the app, tap **Sign in**, and enter your GitHub username and password. After you're logged in, you can view your Projects board, receive task notifications, and reply to comments — all from your phone.
+Imagine this: your GitHub holds three years of project code, your LinkedIn has a carefully cultivated professional network, your cloud storage contains critical work documents — and all of it is tied to an email that stops working the day you graduate.
 
----
+**Here's how professionals think about it:** Before registering any account, ask yourself one question — "How long will I need this account?" If the answer is "a long time" or "forever," use an email that you control and that will never expire.
 
-## 💻 Optional Exercise: Create Your First Board
+### Redundancy Is a Mark of Professionalism
 
-If you want to get familiar with the interface before using it for real work, try creating a practice board. Play around freely — you can't break anything.
+Why two email accounts? Because professionals understand that **a single point of failure is the biggest risk of all.**
 
-**Step 1: Create a repository**
+This principle extends far beyond email:
 
-Log in to GitHub on the web, click the **+** icon in the top-right corner, and select **New repository**. Give it a name (something like `` my-first-project `` — the name doesn't matter), leave the other settings as-is, and click **Create repository**.
+- Important files need backups
+- Critical passwords need recovery options
+- Professional networks need multiple channels
 
-**Step 2: Create a project**
+Once you start applying "redundancy thinking" to your digital life, you're already more professional than most people around you. And this mindset transfers directly to your future work — system design, risk management, project planning — they're all the same way of thinking at their core.
 
-Go to the repository page you just created, click the **Projects** tab at the top, then click the green **New project** button. Choose the **Board** template (Kanban view), give your project a name (like "Practice Board"), and click **Create**.
+### Habits Worth Building Starting Today
 
-**Step 3: Add a few task cards**
+Here are a few suggestions to help you develop good digital identity management habits:
 
-In the **Todo** column, click **+ Add item** and type in a task name. Try adding some fun everyday tasks for practice, like: "Eat breakfast," "Eat lunch," "Eat dinner," "Grab a coffee."
+1. **Run a monthly security check** — Spend 5 minutes each month looking for unusual login activity or security alerts on your key accounts
+2. **Keep an account registry** — Document which email you used to sign up for which important services, so you're not scrambling if you ever need to migrate or recover
+3. **Think before you register** — Before creating any new account, ask yourself: "What's the long-term value of this account? Which email should I use?"
 
-**Step 4: Try dragging cards around**
-
-Now drag "Eat breakfast" from **Todo** to **Doing**, then over to **Done**. Get a feel for how tasks flow between statuses. You can also click a card and try writing a comment.
-
-This practice board is entirely yours — experiment as much as you want. Once the mechanics feel natural, you'll be much more confident when it's time to use a real board.
-
----
-
-## 📖 What to Do When You Get Stuck
-
-GitHub Projects isn't complicated, but if you do run into issues, here's how to handle them:
-
-First, take a screenshot of the problem so you have a record of what you're seeing. Then share the screenshot with an AI assistant (like Claude) and describe your issue — it can answer most how-to questions. If that doesn't resolve things, @ the project lead on any task card and explain what's going on.
-
----
-
-## 👨‍🏫 A Note from Your Mentor: The Workplace Mindset Behind the Board
-
-Learning to drag cards and write comments — the mechanics are easy. But I want to talk about the deeper workplace thinking that a Kanban board represents.
-
-### Visibility is the foundation of collaboration
-
-In school, your effort is mostly invisible — late-night study sessions, endless essay revisions — it's all "hidden labor" that only you know about. In the workplace, **making your progress visible is a core professional skill.**
-
-Dragging a task from Todo to Doing looks like a trivial action, but it carries a message: **"I'm taking ownership of this."** Moving a task to Review and leaving a comment means: **"I've delivered — please take a look."**
-
-Building this habit of proactively sharing your progress earns you a reputation for reliability. Nobody likes having to chase people down asking "so how's that thing going?" When your progress is transparent to the team, you become the teammate everyone trusts.
-
-### Asynchronous communication is how modern work gets done
-
-Why leave a comment on a task instead of just messaging someone on WeChat?
-
-Because WeChat is "synchronous communication" — you send a message and expect an immediate reply. But in a real work environment, everyone has their own rhythm and can't be on call to respond instantly.
-
-Comments are "asynchronous communication" — you write your question or update on the task, and the other person reads and responds when it's convenient. This approach has real advantages: it doesn't interrupt anyone's deep focus, every discussion is documented and searchable, and it works seamlessly across time zones.
-
-As remote work becomes the norm, mastering async communication will make you an effective collaborator on any team.
-
-### From following orders to owning your workflow
-
-One last mindset shift I want to highlight.
-
-Many newcomers treat the board as "the place where I get assigned work" — the mentor drops tasks in, I finish them, end of story. But the most effective professionals use the board as **a tool for managing their own work**.
-
-You can proactively add notes to tasks, documenting your thought process as you go. You can flag blockers by updating a task's status so the team knows you need help. You can even propose new tasks and add them to the Backlog for discussion.
-
-**The board isn't a surveillance tool — it's a stage for demonstrating your value.** When you start using it proactively, you stop being just a task executor and become a true collaborator.
+These small habits will pay dividends throughout your career.
 
 ---
 
 ## ✅ Completion Checklist
 
-- [ ] Understand what each column represents (Planned → Todo → Doing → Review → Done)
-- [ ] Can drag task cards to change their status
-- [ ] Know how to write a comment on a task and @ the right people
-- [ ] Understand why deliverable links need descriptions, not just bare URLs
-- [ ] Know why task discussions belong in comments, not chat apps
-- [ ] **Have downloaded the GitHub mobile app and successfully logged in**
+- [ ] **Gmail created** — using the professional `` firstname + lastname + digits `` format
+- [ ] **Outlook created** — same naming convention
+- [ ] **Gmail recovery email set to Outlook**
+- [ ] **Outlook recovery email set to Gmail**
+- [ ] **Two-Factor Authentication enabled on both accounts**
+- [ ] **School email added as an additional recovery option** (one more layer of protection)
 
 ---
 
 ## 💡 Key Takeaways
 
-- **The board makes collaboration transparent.** The Todo → Doing → Review → Done flow gives everyone clear visibility into project progress.
-- **Updating status is a form of communication.** Dragging a card isn't just a click — it tells the team what you're working on.
-- **Comments are the task's memory.** Every discussion, deliverable, and piece of feedback lives on the task card, far more traceable than any chat history.
-- **Async communication is an essential workplace skill.** Learning to collaborate effectively without interrupting others will make you the most dependable person on any team.
-- **Use the board proactively to showcase your value.** It's not a monitoring tool — it's a reflection of how professionally you work.
+1. **Two primary emails are non-negotiable** — Gmail for the US workplace, Outlook as your backup and China-accessible fallback
+2. **Professional naming matters** — Format: `` firstname + lastname + digits@gmail.com ``; avoid nicknames and birth years
+3. **Your school email is temporary** — Never use it to register services you want to keep long-term
+4. **Cross-link your recovery emails** — This is your lifeline if an account gets locked
+5. **Enable Two-Factor Authentication** — The most effective defense against account theft
+
+---
+
+## ❓ Common Misconceptions, Corrected
+
+**"Can't I just use my Chinese email provider?"**
+
+❌ Strongly discouraged. In the US, a Chinese email domain signals to recruiters that you're unfamiliar with American workplace norms and may lack professional awareness. Some may even flag it as potential spam.
+
+**"One email account is enough, right?"**
+
+❌ Not even close. Gmail is inaccessible in China, so you'll be cut off every time you go home. Accounts can also get locked for all sorts of reasons — without a backup, you're completely stuck. Setting up a second email takes 5 minutes but can save you in a crisis.
+
+**"Signing up for everything with my school email is the easiest approach"**
+
+❌ This is one of the biggest mistakes you can make. Your school email is a temporary identity that expires after graduation. Your GitHub, LinkedIn, bank accounts — all of them become inaccessible along with it.
