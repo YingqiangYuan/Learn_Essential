@@ -1,7 +1,5 @@
 # GitHub 账号：你的职场入场券
 
-[Extension: com.atlassian.confluence.macro.core/toc]
-
 ## 📋 本节目标
 
 学完这节内容，你将能够：
