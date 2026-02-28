@@ -1,25 +1,26 @@
-# Practice Task: Set Up Your GitHub Account
+# Practice Task: Managing Work with GitHub Projects
 
 ## Objective
 
-Create your GitHub account — the foundation for showcasing your projects and preparing for job applications.
+Read the [GitHub Projects Task Management Guide](https://github.com/easyscale-academy/learn_easyscale_academy_essentials-project/tree/02-GitHub-Project-For-Task-Management/) tutorial, learn the core workflows of Kanban-style task management, and set up the GitHub mobile app on your phone.
 
-Start by reading the companion tutorial, *[Your GitHub Account: A Career Essential](https://github.com/easyscale-academy/learn_easyscale_academy_essentials-project/tree/01-Setup-Your-GitHub-Account/)*, then follow the steps below to complete your registration.
+**Estimated time: 20–30 minutes**
+
+---
 
 ## How-to Guide
 
-1. **Read the tutorial** — Go through the companion guide carefully so you understand why GitHub matters for your career.
-2. **Get your email ready** — Make sure you have a personal Gmail address you'll keep long-term (don't use a school email).
-3. **Register your account** — Head to github.com and follow the tutorial to sign up.
-4. **Fill out your profile** — Go to Settings and add a profile photo and Bio.
+1. **Read through the entire tutorial**, paying special attention to how tasks flow through the board: Todo → Doing → Review → Done
+2. **Download and sign in to the GitHub mobile app** (required)
+3. **Try the optional exercises**: Create your own practice board to experience dragging task cards between columns and using the Comment feature
 
-**Estimated time: 15–20 minutes**
+---
 
 ## Checklist
 
-- [ ] **Read the companion tutorial** — Read *Your GitHub Account: A Career Essential* in full.
-- [ ] **Register your account** — Sign up with a personal Gmail. Pick a professional username (ideally `firstname-lastname`, 15 characters or fewer).
-- [ ] **Verify your email** — Click the confirmation link in the verification email and make sure your account is active.
-- [ ] **Upload a professional photo** — Go to Settings > Profile picture and upload a clear headshot.
-- [ ] **Write your Bio** — Describe yourself in one line, e.g. `CS Student at UCLA | Python & Data Analysis`
-- [ ] **Save your credentials** — Store your username, email, and password in your password manager.
+- [ ] **Read the full tutorial** — Understand what each board column represents, especially the three you'll interact with most: Todo → Doing → Review
+- [ ] **Download the GitHub mobile app** — iPhone users: grab it from the App Store. Android users: get it from Google Play
+- [ ] **Sign in to the GitHub app** — Log in with your GitHub account and confirm you can access the Projects section
+- [ ] **(Optional) Create a practice board** — Follow the optional exercise steps in the tutorial to create a Repository and Project, then add a few test task cards
+- [ ] **(Optional) Move tasks through the workflow** — Drag a test task from Todo to Doing, then to Done, to get a feel for the process
+- [ ] **(Optional) Leave a comment** — Write a comment on any task card to familiarize yourself with the Comment feature

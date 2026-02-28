@@ -1,172 +1,199 @@
-# Your GitHub Account: The Entry Ticket to Your Career
+# Getting Started with GitHub Projects for Task Management
 
 ## 📋 What You'll Learn
 
 By the end of this section, you'll be able to:
 
-- Understand why GitHub is a must-have credential for job hunting
-- Create a GitHub account and verify your email
-- Set up a polished, professional profile
+- Understand the core ideas behind Kanban-style task management
+- Navigate the basic workflow in GitHub Projects
+- Use the Comment feature for effective asynchronous communication
 
-## 🎯 Why Does This Matter?
+## 🎯 Why This Matters
 
-Picture this: you've spent hours perfecting your resume. It proudly states "proficient in Python data analysis" and "contributed to machine learning projects." But what's the first thing a recruiter thinks when they read that?
+Picture this: you and a coworker are discussing tasks over WeChat. Messages pile up, and after scrolling for five minutes you still can't find "that thing we talked about last time." Worse, you think you're done — but they think you haven't even started. You're completely out of sync.
 
-**"Where's the proof?"**
+This kind of chaos is incredibly common in the workplace, and GitHub Projects exists to solve it.
 
-In the 2026 job market, claiming skills isn't enough anymore — everyone uses AI to polish their resumes, and every resume looks impressive. What recruiters (and even AI screening systems) actually need is **verifiable evidence**.
+Think of it as a **transparent task board**: every task is visible at a glance so nothing slips through the cracks. Everyone can see who's working on what and how far along they are. All discussions and deliverables live in one place instead of being scattered across chat threads.
 
-That's where GitHub comes in.
-
-Think of it as your online portfolio: every project you've built, every line of code you've written, every problem you've solved — it's all right there for anyone to review and verify. When your resume includes a GitHub link, a recruiter can click through and see your real capabilities. That's more convincing than any amount of eloquent self-description.
-
-The bottom line: **No GitHub = no proof to back up your claims.**
+Kanban-style project management is the standard collaboration model at American tech companies. Whether it's a startup or a major corporation, you'll encounter tools like this — maybe Jira, Asana, Trello, or GitHub Projects itself. Getting comfortable with this workflow now means you'll hit the ground running when you start a new job.
 
 ---
 
-## 📖 What Can GitHub Do for You?
+## 📖 The Big Picture: Understanding Board Columns
 
-**A professional portfolio:** Each of your projects gets its own "[repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" — a dedicated space for your code, documentation, and notes. Recruiters can browse your work directly.
+When you open GitHub Projects, you'll see a board view with several columns. Each column represents a different task status.
 
-**Better odds with AI screening:** Many companies now use AI systems to screen resumes. These systems check whether the projects you mention actually exist. A GitHub link on your resume signals credibility, which naturally boosts your pass rate.
+A typical board includes these status columns:
 
-**Career infrastructure you'll use forever:** Version control lets you track every update to a project — far more professional than dumping files in cloud storage. Built-in project management features like Kanban boards help you organize tasks. And in your future job, you'll almost certainly collaborate with teammates through GitHub.
+![github-project-kanban-workflow.png](./img/02-GitHub-Project-For-Task-Management/02-GitHub-Project-For-Task-Management-01.png)
 
-> 💡 **Important:** GitHub isn't just for programmers. Project documentation, tech blogs, organized data files — anything that benefits from version control belongs here. In the US tech industry, GitHub is standard equipment for working professionals.
-
----
-
-## 📖 Before You Register
-
-Before creating your account, make sure you have a **personal email address you'll keep long-term** (Gmail is recommended).
-
-⚠️ **Don't use your school email!** School email accounts expire after graduation, and you could lose access to your GitHub account entirely.
-
-If you don't have a Gmail account yet, head over to [Gmail](https://gmail.com/) and create one first.
-
----
-
-## 📖 Creating Your GitHub Account
-
-### Open the Sign-Up Page
-
-Go to the [GitHub homepage](https://github.com/). You'll see a green **Sign up** button in the top-right corner — click it to start the registration process.
-
-### Fill In Your Details
-
-The registration page will ask for three key pieces of information:
-
-**Email address:** Enter your Gmail address. This is your login credential — it's private and won't be publicly displayed.
-
-**Password:** Create a strong password with at least 15 characters, mixing uppercase and lowercase letters, numbers, and symbols. Example format: `` MyGitHub@2026!Secure ``. Make sure to save this password in your password manager.
-
-**Username:** This is your public identity on GitHub. It's globally unique and will appear in your profile URL: `` github.com/your-username ``.
-
-### Choosing Your Username (This Really Matters!)
-
-Your username becomes your professional calling card — it'll go on your resume, your LinkedIn, your email signature. Choose carefully.
-
-**Good examples:** `` john-chen `` (short, clear, professional), `` alice-li `` (simple name combination), `` david-wang `` (easy to remember and read)
-
-**What to avoid:** `` john123456789 `` — too long and looks unprofessional; `` CodingNinja2023 `` — too casual for job applications; `` user_2024_temp `` — looks like a throwaway account; `` xjasdjkasjdkl `` — impossible to remember and deeply unprofessional.
-
-**Our recommendation:** Use your real name (in pinyin or English) and keep it under 15 characters.
-
-### Verify Your Email
-
-After submitting your information, GitHub will send a verification email to your inbox. Open the email, click the verification link, and head back to GitHub — your account is now active.
+| Column | What It Means | Who Manages It |
+| --- | --- | --- |
+| **Planned** | Tasks your mentor has queued up | Managed by your mentor — **don't touch these** |
+| **Todo** | Tasks assigned to you | Pick tasks from here to get started |
+| **Doing** | Tasks you're actively working on | You drag cards here |
+| **Review** | Done on your end, waiting for review | You drag cards here + leave a comment |
+| **Done** | Approved by your mentor | Moved by your mentor |
+| **Hold** | Temporarily on pause | Managed by your mentor |
+| **Cancelled** | Tasks that are no longer needed | Managed by your mentor |
+| Different teams may customize the number and names of columns, but the core logic stays the same: **tasks flow from left to right, representing the journey from "planned" to "completed." As the person doing the work, you generally only need to focus on three columns: Todo → Doing → Review.** |  |  |
 
 ---
 
-## 📖 Two Core Concepts You Should Understand
+## 📖 The Core Workflow
 
-### Email vs. Username
+### Step 1: Pick a task from the Todo column
 
-Many beginners confuse these two, but they serve completely different purposes. Your **email** is your login credential — it's private, known only to you. Your **username** is your public identity — visible to the entire world and embedded in your URL.
+Open the board and look at the **Todo** column — this is where assigned tasks sit, waiting for someone to start them. Click on any task card to see its full description, due date, related links, and other details.
 
-For example: if your username is `` alice-wang ``, your GitHub profile lives at `` github.com/alice-wang ``. That's the URL you put on your resume.
+When choosing a task, consider priority and deadlines. If you're not sure what to tackle first, check with your project lead.
 
-### Repositories
+### Step 2: Start working — drag the card to Doing
 
-Think of a "repository" as a smart folder. Each project gets its own repository, which holds all the project's code, documentation, and files. Repositories can be public (visible to everyone) or private (visible only to you).
+When you're ready to begin, click and hold the task card, drag it over to the **Doing** column, and release.
 
-**When it comes to job hunting, your public repositories are your strongest evidence.** Recruiters can inspect your code and projects firsthand.
+This simple action carries real significance: it tells every member of the team that you're on it. No duplicate work, no "I thought you were handling that" / "I thought you hadn't started" miscommunication.
 
-Good repository names describe what's inside: `` data-analysis-dashboard `` (clearly describes the project), `` stock-market-predictor `` (immediately understandable), `` real-time-analytics-platform `` (highlights what it does)
+### Step 3: When you're done, move it to Review and leave a comment
+
+Once you've finished a task, you need to do two things.
+
+**First, drag the card to the Review column.** Same drag-and-drop as before — this signals that your work is complete and ready for someone to check.
+
+**Second, leave a comment on the task.** Click the task card to open its detail page and find the Comment box at the bottom. Your comment should include three things: a note that you've finished, an @ mention of the reviewer (type `` @ `` and select their username), and links to your deliverables.
+
+Here's what a good comment looks like:
+
+```
+@reviewer-username I've completed this task.
+
+Deliverables:
+- Market research doc: https://github.com/xxx/xxx/blob/main/research.md
+- Data analysis report: https://github.com/xxx/xxx/blob/main/analysis.ipynb
+```
+
+**Key reminder: don't just drop a bare link.** Add a brief description before each link so the reviewer can immediately understand what you're submitting.
+
+> **INFO**
+> 
+> If there are no specific instructions, just @ the reviewer and say you're done — or simply write "Done." The important thing is to never move a card to Review without saying anything at all.
+
+### Step 4: Wait for review, and you're done
+
+After you submit to Review, the reviewer will check your work. If it passes, the task gets moved to **Done**. If changes are needed, the reviewer will explain what to fix in a comment, and you can revise and resubmit.
+
+You don't need to ping anyone separately through a chat app — that's the whole point of a board system: **reviewers check the Review column regularly, and the system sends notifications automatically.**
 
 ---
 
-## 📖 Setting Up Your Profile
+## 📖 Daily Habits for Effective Collaboration
 
-Once you've registered, spend two minutes filling out your profile to give your account a professional look.
+**Got a question?** Post it as a comment on the relevant task card, and @ the right people. Keep discussions attached to the task itself rather than buried in WeChat or Slack threads — that way the full context is always easy to find later.
 
-### Getting to the Settings Page
+**Starting your workday?** Check the board first. See if any new tasks have been assigned to you, and look in the Review column for feedback that needs your attention.
 
-Click the avatar icon in the top-right corner (it'll be a default circular placeholder), then select **[Settings](https://github.com/settings/profile)** from the dropdown menu.
+**Making progress on a task?** Keep the status up to date. If a task will take several days, drop periodic updates in the comments so the team knows where things stand.
 
-### What to Fill In
-
-**Profile picture:** Upload a professional photo or a clean headshot. Avoid cartoon images or blurry photos.
-
-**Bio:** Introduce yourself in one line. Examples: `` Data Engineer | AI Enthusiast | Based in NYC `` or `` CS Student at UCLA | Python & Machine Learning ``
-
-**Location:** Enter your city, e.g., `` San Francisco, CA ``
-
-**Website:** If you have a tech blog or personal site, add the link here. This field is optional.
+**Things to avoid:** Don't discuss task details in chat apps — chat messages get buried under new ones, while comments stay attached to the task forever. Don't submit bare links with no description — unexplained links confuse reviewers. Don't forget to update your task status — a card that sits in Doing for three days with no movement makes the team think you're stuck.
 
 ---
 
-## 👨‍🏫 A Word from Your Instructor: GitHub Isn't Just a Tool — It's Your Professional Identity
+## 📱 Required: Install the GitHub Mobile App
 
-Now that you've set up your GitHub account, you might be thinking: "All I did was sign up for a website. What's the big deal?"
+Install the official GitHub App on your phone and sign in with your GitHub account. This lets you check and manage tasks wherever you are.
 
-Let me share a deeper perspective: **In the digital age, your GitHub account is your professional ID card.**
+**Why is this required?** The same way you glance at your phone calendar every morning to see what's on your plate, being able to check the task board anytime keeps your work organized. With the mobile app, you can quickly scan task progress whenever it's convenient — no need to open your laptop. It makes everything much easier to stay on top of.
 
-### From "Trust Me, I Can Do It" to "Here, Let Me Show You"
+**iPhone users:** Open the App Store and search for "GitHub." Look for the official GitHub App (the icon is a white GitHub cat logo on a black background), then download and install it.
 
-The old way of job hunting worked like this: you'd write "expert in Python" on your resume, and the recruiter would choose to believe you or not. It was a trust-based system.
+**Android users:** Open the Google Play Store, search for "GitHub," and download the official app.
 
-Now, recruiters can go straight to your GitHub and see for themselves: What code have you written? What's your coding style like? What problems have you solved? Can you collaborate with others?
+Once installed, open the app, tap **Sign in**, and enter your GitHub username and password. After you're logged in, you can view your Projects board, receive task notifications, and reply to comments — all from your phone.
 
-This is an evidence-based system.
+---
 
-When you start investing in your GitHub presence, you're building a **verifiable professional track record**. Every commit, every pull request, every piece of documentation is proof of what you can do.
+## 💻 Optional Exercise: Create Your First Board
 
-### Your Username Is Your Professional Brand
+If you want to get familiar with the interface before using it for real work, try creating a practice board. Play around freely — you can't break anything.
 
-The username you choose today may follow you for your entire career. It'll appear on your resume, your LinkedIn profile, your bylines on technical articles, and contributor lists on open-source projects.
+**Step 1: Create a repository**
 
-I've seen too many people regret the username they picked years ago — either it sounds juvenile, it's too long to remember, or it has no connection to their real identity.
+Log in to GitHub on the web, click the **+** icon in the top-right corner, and select **New repository**. Give it a name (something like `` my-first-project `` — the name doesn't matter), leave the other settings as-is, and click **Create repository**.
 
-So treat your GitHub username with the same seriousness as your real name. It's who you are in the tech world.
+**Step 2: Create a project**
 
-### A Habit Worth Starting Today
+Go to the repository page you just created, click the **Projects** tab at the top, then click the green **New project** button. Choose the **Board** template (Kanban view), give your project a name (like "Practice Board"), and click **Create**.
 
-Here's my advice: **treat GitHub like your professional journal.**
+**Step 3: Add a few task cards**
 
-You don't need to wait until you've built something groundbreaking before pushing to GitHub. Study notes, small utilities, coursework, practice code — anything you've written yourself that shows your growth trajectory belongs there.
+In the **Todo** column, click **+ Add item** and type in a task name. Try adding some fun everyday tasks for practice, like: "Eat breakfast," "Eat lunch," "Eat dinner," "Grab a coffee."
 
-What matters isn't that every commit is perfect. What matters is that recruiters can see: this is someone who keeps learning and keeps growing.
+**Step 4: Try dragging cards around**
 
-**Starting today, every effort you make will leave a trace.**
+Now drag "Eat breakfast" from **Todo** to **Doing**, then over to **Done**. Get a feel for how tasks flow between statuses. You can also click a card and try writing a comment.
+
+This practice board is entirely yours — experiment as much as you want. Once the mechanics feel natural, you'll be much more confident when it's time to use a real board.
+
+---
+
+## 📖 What to Do When You Get Stuck
+
+GitHub Projects isn't complicated, but if you do run into issues, here's how to handle them:
+
+First, take a screenshot of the problem so you have a record of what you're seeing. Then share the screenshot with an AI assistant (like Claude) and describe your issue — it can answer most how-to questions. If that doesn't resolve things, @ the project lead on any task card and explain what's going on.
+
+---
+
+## 👨‍🏫 A Note from Your Mentor: The Workplace Mindset Behind the Board
+
+Learning to drag cards and write comments — the mechanics are easy. But I want to talk about the deeper workplace thinking that a Kanban board represents.
+
+### Visibility is the foundation of collaboration
+
+In school, your effort is mostly invisible — late-night study sessions, endless essay revisions — it's all "hidden labor" that only you know about. In the workplace, **making your progress visible is a core professional skill.**
+
+Dragging a task from Todo to Doing looks like a trivial action, but it carries a message: **"I'm taking ownership of this."** Moving a task to Review and leaving a comment means: **"I've delivered — please take a look."**
+
+Building this habit of proactively sharing your progress earns you a reputation for reliability. Nobody likes having to chase people down asking "so how's that thing going?" When your progress is transparent to the team, you become the teammate everyone trusts.
+
+### Asynchronous communication is how modern work gets done
+
+Why leave a comment on a task instead of just messaging someone on WeChat?
+
+Because WeChat is "synchronous communication" — you send a message and expect an immediate reply. But in a real work environment, everyone has their own rhythm and can't be on call to respond instantly.
+
+Comments are "asynchronous communication" — you write your question or update on the task, and the other person reads and responds when it's convenient. This approach has real advantages: it doesn't interrupt anyone's deep focus, every discussion is documented and searchable, and it works seamlessly across time zones.
+
+As remote work becomes the norm, mastering async communication will make you an effective collaborator on any team.
+
+### From following orders to owning your workflow
+
+One last mindset shift I want to highlight.
+
+Many newcomers treat the board as "the place where I get assigned work" — the mentor drops tasks in, I finish them, end of story. But the most effective professionals use the board as **a tool for managing their own work**.
+
+You can proactively add notes to tasks, documenting your thought process as you go. You can flag blockers by updating a task's status so the team knows you need help. You can even propose new tasks and add them to the Backlog for discussion.
+
+**The board isn't a surveillance tool — it's a stage for demonstrating your value.** When you start using it proactively, you stop being just a task executor and become a true collaborator.
 
 ---
 
 ## ✅ Completion Checklist
 
-- [ ] Registered with a personal email (not a school email)
-- [ ] Chose a professional, memorable username (real name in pinyin recommended, under 15 characters)
-- [ ] Completed email verification and activated the account
-- [ ] Uploaded a professional profile photo
-- [ ] Filled in the Bio (a one-line self-introduction)
-- [ ] Saved the username, email, and password somewhere secure
+- [ ] Understand what each column represents (Planned → Todo → Doing → Review → Done)
+- [ ] Can drag task cards to change their status
+- [ ] Know how to write a comment on a task and @ the right people
+- [ ] Understand why deliverable links need descriptions, not just bare URLs
+- [ ] Know why task discussions belong in comments, not chat apps
+- [ ] **Have downloaded the GitHub mobile app and successfully logged in**
 
 ---
 
 ## 💡 Key Takeaways
 
-- **Your GitHub account = your ticket into the US job market.** Without it, your claims have no evidence behind them.
-- **Your username = your unique professional identifier.** Choose it as carefully as you'd choose your real name — it'll follow you throughout your career.
-- **Public repositories = your most powerful job-search evidence.** Both recruiters and AI screening systems will look at them.
-- **A GitHub link on your resume = instant credibility.** It's the most direct way to prove what you can do.
-- **Start building your GitHub presence today.** It doesn't need to be perfect — it just needs to be consistent. Let every effort you make leave a trace.
+- **The board makes collaboration transparent.** The Todo → Doing → Review → Done flow gives everyone clear visibility into project progress.
+- **Updating status is a form of communication.** Dragging a card isn't just a click — it tells the team what you're working on.
+- **Comments are the task's memory.** Every discussion, deliverable, and piece of feedback lives on the task card, far more traceable than any chat history.
+- **Async communication is an essential workplace skill.** Learning to collaborate effectively without interrupting others will make you the most dependable person on any team.
+- **Use the board proactively to showcase your value.** It's not a monitoring tool — it's a reflection of how professionally you work.
