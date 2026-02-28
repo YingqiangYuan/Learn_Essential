@@ -25,3 +25,9 @@ Learn why you need two primary email accounts (Gmail + Outlook) for your US care
 ## 04-Password-Management
 
 Building on your email foundation, protect all your accounts from credential stuffing attacks. Set up LastPass with a memorable master password, save your recovery code securely, and replace passwords on critical accounts (Gmail, GitHub, LinkedIn) with randomly generated ones. After completion, you'll have one master password managing all your credentials automatically.
+
+---
+
+## 05-Teams-Communication
+
+Master async-first communication — the default mode in American workplaces. Learn to write self-contained messages (context + question + requirement + deadline), use Quote Reply for clarity, emoji reactions for acknowledgment, and screen recordings to demonstrate issues. Install the Teams mobile app for meeting reminders. After completion, you'll communicate like a professional remote worker.
