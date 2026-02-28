@@ -13,3 +13,9 @@ Learn why GitHub is essential for the US tech job market and create your profess
 ## 02-GitHub-Projects
 
 Building on your GitHub account, learn Kanban-style task management used at US tech companies. Master the Todo → Doing → Review → Done workflow by dragging task cards, writing comments with @mentions, and submitting deliverables properly. Install the GitHub mobile app for on-the-go access. After completion, you can track your learning progress transparently and communicate asynchronously with your mentor.
+
+---
+
+## 03-Email-Account-Planning
+
+Learn why you need two primary email accounts (Gmail + Outlook) for your US career. Create professionally-named accounts following the `firstname.lastname##@gmail.com` format, link them as each other's recovery email, and enable two-factor authentication. After completion, you'll have a secure, professional digital identity foundation..
