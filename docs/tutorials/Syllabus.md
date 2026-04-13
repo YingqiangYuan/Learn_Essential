@@ -31,3 +31,9 @@ Building on your email foundation, protect all your accounts from credential stu
 ## 05-Teams-Communication
 
 Master async-first communication — the default mode in American workplaces. Learn to write self-contained messages (context + question + requirement + deadline), use Quote Reply for clarity, emoji reactions for acknowledgment, and screen recordings to demonstrate issues. Install the Teams mobile app for meeting reminders. After completion, you'll communicate like a professional remote worker.
+
+---
+
+## 06-Teams-Communication-Rules
+
+Building on the Teams skills from lesson 05, establish the ground rule: all project communication happens on Teams, not personal messaging apps. Learn why company tools beat personal apps (permanent history, full-text search, multi-device sync, compliance). Set up Teams on both computer and phone, join your mentor's group chat, and understand what belongs on Teams vs. personal channels.
