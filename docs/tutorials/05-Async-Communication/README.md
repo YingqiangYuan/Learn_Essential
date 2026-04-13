@@ -86,8 +86,6 @@ When a chat has multiple topics going at once, replying with just "OK" leaves th
 
 **How to do it**: Hover your mouse over the specific message you want to reply to, click the Reply icon (a curved arrow) that appears, then type your response in the reply box that pops up.
 
-[Image placeholder: Teams chat interface showing the Reply icon on hover]
-
 This way, the other person instantly knows which topic you're addressing. It's a basic workplace communication skill — make it a habit.
 
 ### Technique 2: Emoji Acknowledgments
@@ -125,8 +123,6 @@ Open the meeting you just created and click Join. Once you're in, click the ⋯ 
 **Step 3: Share the recording**
 
 Wait a few minutes for the system to process the video. Once it's ready, a recording link will appear in the Meeting Chat. Copy that link and send it to your mentor.
-
-[Image placeholder: Teams meeting interface with the Start recording option highlighted]
 
 ---
 
