@@ -143,6 +143,18 @@ GitHub Projects isn't complicated, but if you do run into issues, here's how to 
 
 First, take a screenshot of the problem so you have a record of what you're seeing. Then share the screenshot with an AI assistant (like Claude) and describe your issue — it can answer most how-to questions. If that doesn't resolve things, @ the project lead on any task card and explain what's going on.
 
+> ⚠️🔗 **Important! Always share the card link when reaching out to your mentor!**
+>
+> When you have a question or need help, **don't just say "I'm having trouble with that research task"** — your mentor may have dozens of cards on the board, and a vague text description won't help them find the one you're talking about.
+>
+> **The right way:** Open the task card, click the 🔗 **copy link button** in the top-right corner, and send that link to your mentor. One click and they'll land right on your card with full context.
+>
+> ❌ Wrong: "Hey, I'm stuck on that task we talked about."
+>
+> ✅ Right: "Hey, I'm stuck on this task: https://github.com/orgs/xxx/projects/1/views/1?pane=issue&itemId=12345 — specifically…"
+>
+> **Build this habit and your communication efficiency will improve tenfold.**
+
 ---
 
 ## 👨‍🏫 A Note from Your Mentor: The Workplace Mindset Behind the Board
