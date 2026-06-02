@@ -26,15 +26,7 @@ Read the tutorial: [Teams Communication Rules](https://github.com/easyscale-acad
 
 ---
 
-## Submission & Verification
-
-When you're done, run `/teach-check` to verify your work against the checklist. Say "ship it" when complete to generate RESULT.md, then share the RESULT.md file GitHub link with your instructor.
-
----
-
 ## Grading Rubric
-
-> **For instructors and /teach-check assistant** — Students may skip this section.
 
 - **Teams access on computer:** Student can open teams.microsoft.com and is signed in with their company email
 - **Teams access on phone:** Student has the Microsoft Teams mobile app installed and can open it while signed in
