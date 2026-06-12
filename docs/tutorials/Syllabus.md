@@ -37,3 +37,9 @@ Master async-first communication — the default mode in American workplaces. Le
 ## 06-Teams-Communication-Rules
 
 Building on the Teams skills from lesson 05, establish the ground rule: all project communication happens on Teams, not personal messaging apps. Learn why company tools beat personal apps (permanent history, full-text search, multi-device sync, compliance). Set up Teams on both computer and phone, join your mentor's group chat, and understand what belongs on Teams vs. personal channels.
+
+---
+
+## 07-Web-Browser-Profile
+
+Building on the multi-account reality from earlier lessons, learn why the same URL like outlook.com or google.com can hide completely different accounts — and how Browser Profiles solve it. Create a dedicated Profile for this course in Chrome (or Edge, Firefox, Safari), isolating logins, cookies, history, bookmarks, and extensions. After completion, you'll cleanly separate your learning, personal, and work identities in your browser.
