@@ -21,7 +21,7 @@ Read the tutorial: [Web Browser Profiles](https://github.com/easyscale-academy/l
 - [X] **Read the tutorial** — Understand what a Browser Profile is and why the same URL can hide different accounts
 - [X] **Dedicated learning Profile created** — A new Profile exists specifically for course work, with a name you chose
 - [X] **Course accounts signed in** — GitHub, Teams, and course email are signed in inside the learning Profile, not your personal one
-- [ ] **Profile switching works** — You can switch between Profiles using the avatar menu (or your browser's equivalent)
+- [X] **Profile switching works** — You can switch between Profiles using the avatar menu (or your browser's equivalent)
 
 ---
 
