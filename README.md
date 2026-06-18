@@ -149,12 +149,12 @@ Down the road, as you take on new identities — a job, a graduate program, an o
 
 ## ✅ Completion Checklist
 
-- [ ] I understand what a Browser Profile is and what problem it solves
-- [ ] I know why the same URL can be hiding completely different accounts
-- [ ] I've successfully created a new Profile in Chrome (or my browser of choice)
-- [ ] I've created a dedicated Profile for this course (named whatever I like)
-- [ ] I've signed in to my course-related accounts (GitHub, Teams, email, etc.) inside this learning Profile
-- [ ] I know how to use the avatar menu to switch between Profiles
+- [X] I understand what a Browser Profile is and what problem it solves
+- [X] I know why the same URL can be hiding completely different accounts
+- [X] I've successfully created a new Profile in Chrome (or my browser of choice)
+- [X] I've created a dedicated Profile for this course (named whatever I like)
+- [X] I've signed in to my course-related accounts (GitHub, Teams, email, etc.) inside this learning Profile
+- [X] I know how to use the avatar menu to switch between Profiles
 
 ---
 

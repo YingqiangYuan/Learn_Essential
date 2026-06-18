@@ -149,12 +149,12 @@ Google 那边也是一样的道理：公司 Gmail、个人 Gmail、学校 Gmail�
 
 ## ✅ 完成检查清单
 
-- [ ] 我理解了什么是 Browser Profile，以及它解决了什么问题
-- [ ] 我知道为什么同一个 URL 可以登录完全不同的账号
-- [ ] 我已经在 Chrome（或我用的浏览器）里成功创建了一个新的 Profile
-- [ ] 我专门为这门课的学习创建了一个独立的 Profile（名字自己起）
-- [ ] 我已经在这个学习 Profile 里登录了学习相关的账号（GitHub、Teams、邮箱等）
-- [ ] 我会用右上角的头像菜单快速切换 Profile
+- [X] 我理解了什么是 Browser Profile，以及它解决了什么问题
+- [X] 我知道为什么同一个 URL 可以登录完全不同的账号
+- [X] 我已经在 Chrome（或我用的浏览器）里成功创建了一个新的 Profile
+- [X] 我专门为这门课的学习创建了一个独立的 Profile（名字自己起）
+- [X] 我已经在这个学习 Profile 里登录了学习相关的账号（GitHub、Teams、邮箱等）
+- [X] 我会用右上角的头像菜单快速切换 Profile
 
 ---
 
